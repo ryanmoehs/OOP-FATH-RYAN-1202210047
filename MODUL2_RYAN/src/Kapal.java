@@ -1,3 +1,5 @@
+package MODUL2_RYAN.src;
+
 public class Kapal extends TransportasiAir{
     protected String mesin;
 

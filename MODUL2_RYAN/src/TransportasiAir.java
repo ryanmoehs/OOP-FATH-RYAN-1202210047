@@ -1,4 +1,5 @@
-// package MODUL2_RYAN.src;
+package MODUL2_RYAN.src;
+
 public class TransportasiAir {
     protected int jumlahKursi;
     protected int biaya;

@@ -1,4 +1,4 @@
-// package MODUL2_RYAN.src;
+package MODUL2_RYAN.src;
 
 public class Sampan extends TransportasiAir{
     protected int layar;

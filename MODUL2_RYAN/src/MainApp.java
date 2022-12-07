@@ -1,3 +1,5 @@
+package MODUL2_RYAN.src;
+
 public class MainApp {
     public static void main(String[] args) {
         TransportasiAir transport = new TransportasiAir(4, 20000);
